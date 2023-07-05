@@ -1,0 +1,15 @@
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/bin/Debug/net6.0/Console_WeatherApp
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/bin/Debug/net6.0/Console_WeatherApp.deps.json
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/bin/Debug/net6.0/Console_WeatherApp.runtimeconfig.json
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/bin/Debug/net6.0/Console_WeatherApp.dll
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/bin/Debug/net6.0/ref/Console_WeatherApp.dll
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/bin/Debug/net6.0/Console_WeatherApp.pdb
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/obj/Debug/net6.0/Console_WeatherApp.csproj.AssemblyReference.cache
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/obj/Debug/net6.0/Console_WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/obj/Debug/net6.0/Console_WeatherApp.AssemblyInfoInputs.cache
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/obj/Debug/net6.0/Console_WeatherApp.AssemblyInfo.cs
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/obj/Debug/net6.0/Console_WeatherApp.csproj.CoreCompileInputs.cache
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/obj/Debug/net6.0/Console_WeatherApp.dll
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/obj/Debug/net6.0/ref/Console_WeatherApp.dll
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/obj/Debug/net6.0/Console_WeatherApp.pdb
+/Users/kevin/RiderProjects/Console_WeatherApp/Console_WeatherApp/obj/Debug/net6.0/Console_WeatherApp.genruntimeconfig.cache
